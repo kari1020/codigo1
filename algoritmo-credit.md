@@ -5,3 +5,4 @@ inicio
    imprimir "aprobado"
     sino
   imprimir "rechazado"
+  fin
